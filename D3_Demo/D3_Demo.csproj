@@ -20,6 +20,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Src\Demo1\" />
+    <Folder Include="Src\Demo2\" />
   </ItemGroup>
 
 </Project>
