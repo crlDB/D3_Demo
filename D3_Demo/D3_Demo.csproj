@@ -21,6 +21,7 @@
   <ItemGroup>
     <Folder Include="Src\Demo1\" />
     <Folder Include="Src\Demo2\" />
+    <Folder Include="Src\Demo3\" />
   </ItemGroup>
 
 </Project>
